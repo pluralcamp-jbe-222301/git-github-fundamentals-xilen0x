@@ -16,13 +16,13 @@ You will need to download and install the ``git-it-electron`` app:
 [download git-it for mac](https://github.com/jlord/git-it-electron/releases/download/4.4.0/Git-it-Mac-x64.zip)
 
 > Please add a screen cap to this repo showing challenges finished.
-
+![imagen](reto1.png)
 ## w3schools quiz
 
 Once you finish the git-it lab, please proceed with the quiz you will find in [w3schools git quiz](https://www.w3schools.com/git/git_quiz.asp)
 
 > Please add a screen cap to this repo showing your results after finishing the quiz.
-
+![imagen2](git.png)
 ## For beginners
 
 [git cheat sheet](https://www.freecodecamp.org/news/git-cheat-sheet/)
